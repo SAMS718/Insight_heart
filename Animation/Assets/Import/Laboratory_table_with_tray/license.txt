@@ -1,0 +1,11 @@
+Model Information:
+* title:	Laboratory table with tray
+* source:	https://sketchfab.com/3d-models/laboratory-table-with-tray-ad88071d9f374191a82f08da2940d631
+* author:	AlejandraSandoval (https://sketchfab.com/AlejandraSandoval)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Laboratory table with tray" (https://sketchfab.com/3d-models/laboratory-table-with-tray-ad88071d9f374191a82f08da2940d631) by AlejandraSandoval (https://sketchfab.com/AlejandraSandoval) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

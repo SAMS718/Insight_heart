@@ -1,0 +1,11 @@
+Model Information:
+* title:	Turner Skeleton
+* source:	https://sketchfab.com/3d-models/turner-skeleton-dc28f979dbeb468bb52f7f9355fd92a5
+* author:	akazi (https://sketchfab.com/akazi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Turner Skeleton" (https://sketchfab.com/3d-models/turner-skeleton-dc28f979dbeb468bb52f7f9355fd92a5) by akazi (https://sketchfab.com/akazi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

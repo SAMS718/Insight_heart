@@ -1,0 +1,11 @@
+Model Information:
+* title:	VR New Gen Headset
+* source:	https://sketchfab.com/3d-models/vr-new-gen-headset-9976d7b663f04d679338f24a70c4ba66
+* author:	Sagnik12 (https://sketchfab.com/Sagnik12)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VR New Gen Headset" (https://sketchfab.com/3d-models/vr-new-gen-headset-9976d7b663f04d679338f24a70c4ba66) by Sagnik12 (https://sketchfab.com/Sagnik12) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

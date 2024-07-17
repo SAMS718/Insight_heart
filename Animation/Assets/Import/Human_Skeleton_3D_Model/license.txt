@@ -1,0 +1,11 @@
+Model Information:
+* title:	Human Skeleton 3D Model
+* source:	https://sketchfab.com/3d-models/human-skeleton-3d-model-d04e251ee8a242fcb57db58f3989def4
+* author:	Dinendra Neyo (https://sketchfab.com/NeyoZ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Human Skeleton 3D Model" (https://sketchfab.com/3d-models/human-skeleton-3d-model-d04e251ee8a242fcb57db58f3989def4) by Dinendra Neyo (https://sketchfab.com/NeyoZ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

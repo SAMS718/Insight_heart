@@ -1,0 +1,8 @@
+Model Information:
+* title:	Oculus Quest 2
+* source:	https://sketchfab.com/3d-models/oculus-quest-2-4967b66566564e0cbeb8ab7f84eeb7e6
+* author:	jozefvv (https://sketchfab.com/jozefvv)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

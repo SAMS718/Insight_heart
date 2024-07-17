@@ -1,0 +1,1918 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cardio_blood
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 8.516666
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: 
+  m_FloatCurves: []
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 9.5
+      value: {fileID: 2100000, guid: 06004ce3290727d4ba5f2dafe3e88b76, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3482_BP51036_FMA4761_Left_brachiocephalic_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 9.833333
+      value: {fileID: 2100000, guid: 058b963f491d58447a87708f0d046458, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2313_BP51036_FMA4761_Left_brachiocephalic_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 9.833333
+      value: {fileID: 2100000, guid: 247abd2df8661ce4d8dc8acdab12baa1, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2220_BP51036_FMA4761_Left_brachiocephalic_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 9.833333
+      value: {fileID: 2100000, guid: b9ee3635896e346419fa2e134ead1d48, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2251_BP50705_FMA4084_Left_thyrocervical_trunk:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 10.616667
+      value: {fileID: 2100000, guid: 53814486414a7b746befcc00908d3f90, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2260_BP51036_FMA4761_Left_brachiocephalic_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 10.616667
+      value: {fileID: 2100000, guid: e0de551960b80a646b313b1c03917397, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2218_BP51036_FMA4761_Left_brachiocephalic_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 10.616667
+      value: {fileID: 2100000, guid: 360c8289bbbb60840995fe53ec480ab7, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2234_BP51036_FMA4761_Left_brachiocephalic_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 10.616667
+      value: {fileID: 2100000, guid: c15abe08504714e4993c1cff7a2f280f, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2315_BP45791_FMA85118_Left_first_common_palmar_digital_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.516666
+      value: {fileID: 2100000, guid: 2ecad785bf449944fbec20e7cd751248, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3587_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.983334
+      value: {fileID: 2100000, guid: 165dcfa37365e2d4e9fbcfb259bc51d4, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2272_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.966666
+      value: {fileID: 2100000, guid: b476f38812b291c4c81791483ff60462, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2270_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.516666
+      value: {fileID: 2100000, guid: 5797ce03b6e65c949a3a07dfa986fdd7, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2312_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.516666
+      value: {fileID: 2100000, guid: 653fb93c7d2d75b4aa9fa070377e7b5e, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2286_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.516666
+      value: {fileID: 2100000, guid: d377d47ecf12b014dbf9f4bdea16b0da, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2344_BP45650_FMA85119_Right_second_common_palmar_digital_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.516666
+      value: {fileID: 2100000, guid: f793201241dd1be4880eff514f3bebaf, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2349_BP45716_FMA85102_Proper_palmar_digital_vein_of_right_little_finger:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.516666
+      value: {fileID: 2100000, guid: 102f8c25d8065c64a87404948cc0bef3, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2365_BP45280_FMA22858_Lateral_proper_palmar_digital_artery_of_right_middle_finger:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.516666
+      value: {fileID: 2100000, guid: 61237d0f640520743aa6e0817d9a0c3d, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2358_BP45706_FMA85100_Proper_palmar_digital_vein_of_right_ring_finger:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.516666
+      value: {fileID: 2100000, guid: 0b197f3e9bc155042a9754221d427850, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2367_BP45324_FMA85112_Medial_proper_palmar_digital_artery_of_right_middle_finger:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 11.516666
+      value: {fileID: 2100000, guid: 745c247566bcbc44fad15e1e8c0380ac, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2354_BP45438_FMA85096_Proper_palmar_digital_vein_of_right_index_finger:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: 6c8ea717a2b002a4398916409778ddef, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - time: 19.233334
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3644_BP50903_FMA66358_Trunk_of_superior_mesenteric_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.516666
+      value: {fileID: 2100000, guid: 7b93df7d0b37ffa439b668216129f0b2, type: 2}
+    - time: 13.05
+      value: {fileID: 2100000, guid: 7b93df7d0b37ffa439b668216129f0b2, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3427_BP50733_FMA3784_Descending_aorta:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: dc89b261ef5eba740b5ad80d1f6cc2d9, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3590_BP50771_FMA14811_Right_colic_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: ddd37583b91a1774da28aff4de609ae7, type: 2}
+    - time: 19.316668
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3566_BP50860_FMA21387_Right_common_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: 7a73a670975f91846bd5a149b56d493d, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3565_BP50755_FMA69383_Trunk_of_right_common_iliac_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: 48e580b5f03b2e347953a9b4fb423900, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3465_BP50739_FMA21388_Left_common_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: db9247e3b681b804181feae86344fdcd, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3468_BP50561_FMA70187_Trunk_of_left_internal_iliac_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: c13d8d00fede3b64bb6d7fba1d6f74c9, type: 2}
+    - time: 20.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3484_BP50948_FMA18886_Left_external_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: a7c00f201757bbd45b05ad4f202897d9, type: 2}
+    - time: 19.433332
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3567_BP50128_FMA69390_Trunk_proper_of_right_external_iliac_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 13.033334
+      value: {fileID: 2100000, guid: 8dc56a64a2b604d4c90eb4f83b1e4437, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3466_BP49962_FMA69391_Trunk_proper_of_left_external_iliac_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 13.05
+      value: {fileID: 2100000, guid: bebd5769f00da0b44a2774ecb616e996, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3464_BP50791_FMA69384_Trunk_of_left_common_iliac_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: ba62e05e958c2c2408bfbfd0abf63034, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2178_BP50868_FMA18885_Right_external_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: c3c5fbd7617fab24297fb1715ff30ebc, type: 2}
+    - time: 19.433332
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3568_BP50868_FMA18885_Right_external_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: 676d6eda798ff694d818742e7255131c, type: 2}
+    - time: 20.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2102_BP50871_FMA21189_Left_femoral_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 13.616667
+      value: {fileID: 2100000, guid: 04380d001b25b2a44a4f870f38071d9a, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - time: 20.033333
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2074_BP49956_FMA20732_Trunk_of_left_femoral_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 14.333333
+      value: {fileID: 2100000, guid: 6f462aac1034be84999f78df30fdf0f6, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2144_BP50868_FMA18885_Right_external_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 14.333333
+      value: {fileID: 2100000, guid: 41fdeb13648792548a8d307cb4917429, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2143_BP49789_FMA20731_Trunk_of_right_femoral_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: ba9052d6c681b6146b7c859d4e4910af, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2145_BP50868_FMA18885_Right_external_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: 4e1cdc3472c1cbf45b873839093d9439, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2103_BP50871_FMA21189_Left_femoral_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 13.016666
+      value: {fileID: 2100000, guid: af71ee315bd6b1f4a8e65db832034b76, type: 2}
+    - time: 19.55
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2094_BP49956_FMA20732_Trunk_of_left_femoral_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2135_BP50868_FMA18885_Right_external_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: 966ee9b48cb026549947697773019514, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2170_BP50537_FMA77380_Right_popliteal_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 14.05
+      value: {fileID: 2100000, guid: 99df4e193ab559841910f8545be1d31f, type: 2}
+    - time: 20.3
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2086_BP50388_FMA77381_Left_popliteal_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 14.633333
+      value: {fileID: 2100000, guid: 8fcb7e56feaf1a54ebd59596a255e76a, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2130_BP50208_FMA66424_Trunk_of_right_anterior_tibial_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: aec3a8bba2bf02a4ab9ebcbdb37f2932, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2187_BP49437_FMA44886_Left_fibular_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: bcafb3e692bc7f24e9c1747776be4036, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2183_BP49405_FMA44337_Left_anterior_tibial_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: cf957d1a4e0cfef4981459ce71a0aa38, type: 2}
+    - time: 22.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2061_BP50868_FMA18885_Right_external_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 15.033334
+      value: {fileID: 2100000, guid: ee8f52e809f5d8a459dc0962951054a8, type: 2}
+    - time: 22.033333
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2059_BP49484_FMA44335_Left_small_saphenous_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: 6aede284f79b78946ba99fd0db879012, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2173_BP50868_FMA18885_Right_external_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 14.616667
+      value: {fileID: 2100000, guid: 5ebe09ced3f82ec439e19200b91ae2d6, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2118_BP50871_FMA21189_Left_femoral_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: a3ffd86fe6b47774cb635da18db865f1, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2069_BP49956_FMA20732_Trunk_of_left_femoral_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: c2609d7501d732e46bfcd897509c2d6e, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2182_BP50868_FMA18885_Right_external_iliac_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: e25c5787565af9940ad5a03e177e7ce9, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2167_BP46836_FMA22562_Right_middle_genicular_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 12.533334
+      value: {fileID: 2100000, guid: ac0eeae9486412f4a9aa4fc4e4caa352, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2084_BP46886_FMA22563_Left_middle_genicular_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: a2528a077f570244d83ea6536e26e0d4, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2341_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 5175daecbc9d0b147831bb7f51891e83, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2217_BP51036_FMA4761_Left_brachiocephalic_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 81ff0d06a32035b44987bdfbefa84443, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2263_BP49822_FMA23068_Acromial_branch_of_right_thoraco_acromial_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: a17162fd2713dc4489e8474af50a2eea, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2269_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: abdc5d8d8687a22469ba4a22f57a89b3, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5082_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: a05592fcf09eb0f47b5289f8048b283b, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5140_BP45141_FMA50781_Occipital_sinus:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 8ff78ba5215876e459402f7e2bc99e55, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5232_BP49498_FMA50767_Superior_sagittal_sinus:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 5ee53c094e48d7b42aec544abd79994b, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5198_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 18.016666
+      value: {fileID: 2100000, guid: 67025c0f710819b40942c03760bb713f, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ1724M_BP49332_FMA50478_Left_prefrontal_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.116667
+      value: {fileID: 2100000, guid: 9bcf35f32c8e5954890d7ae00e787919, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5023_BP45176_FMA79529_Trunk_of_right_anterior_deep_temporal_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.416666
+      value: {fileID: 2100000, guid: 79d21ba2ed2f7664bbd67f5dc6375937, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5179_BP49977_FMA49822_Cavernous_branch_of_right_internal_carotid_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.416666
+      value: {fileID: 2100000, guid: c82be7bdbbfd9ef4090ec5b03cb7115a, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ1729_BP49977_FMA49822_Cavernous_branch_of_right_internal_carotid_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.066668
+      value: {fileID: 2100000, guid: 819932e16b896954f8516c2da5111943, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5040_BP48919_FMA50480_Artery_of_right_precentral_sulcus:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.683332
+      value: {fileID: 2100000, guid: b32f67338fc37f44c935fd645c4b3cc7, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ1722_BP48758_FMA50353_Posteromedial_branch_of_right_callosomarginal_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.966667
+      value: {fileID: 2100000, guid: a148e0ada7e434a4da050c6670149e3a, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ1696_BP48813_FMA50357_Paracentral_branch_of_right_callosomarginal_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.016666
+      value: {fileID: 2100000, guid: e6ea7ecacd680ff49b592b0d13b7469f, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5136_BP50751_FMA4755_Right_subclavian_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.983334
+      value: {fileID: 2100000, guid: 3a57d957bc1dc4a438a9da672a95e060, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5046_BP44892_FMA50991_Right_basal_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.05
+      value: {fileID: 2100000, guid: a7b3b1213621ee14caaf7c960beb51ee, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ4716_BP51036_FMA4761_Left_brachiocephalic_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 9ace736fb52cc8544aec6c1c9f31a42f, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5079_BP48916_FMA50684_Right_splenial_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.616667
+      value: {fileID: 2100000, guid: b9ea0e7c52f08c64b8ef14fa3d5044e7, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ4695_BP44902_FMA51240_Right_superior_anastomotic_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.033333
+      value: {fileID: 2100000, guid: a110e543d43f82f4a83d23f299d760cc, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5194_BP49538_FMA50984_Right_superficial_middle_cerebral_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 6b50926bf2df24248a6c198553be7da6, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5105_BP46850_FMA50818_Right_internal_jugular_vein_proper:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 18
+      value: {fileID: 2100000, guid: 3663a918798b5974ca2cedcb042208ec, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ1682M_BP50725_FMA69326_Trunk_of_left_common_carotid_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.05
+      value: {fileID: 2100000, guid: 94d2eb0ee08bd5c49a856bb503edb8d1, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5087_BP45148_FMA79572_Trunk_of_right_greater_palatine_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.016666
+      value: {fileID: 2100000, guid: a80ce77623de1884bb5f29a2c5d9b086, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ1682_BP50040_FMA75866_Trunk_of_right_internal_carotid_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.05
+      value: {fileID: 2100000, guid: c7de9065e4597e541a229646390af3c4, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5083_BP49426_FMA50911_Right_external_nasal_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 9bf0df65b5a4c8741abf51b239f665f9, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ4990_BP50737_FMA4754_Right_internal_jugular_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.05
+      value: {fileID: 2100000, guid: 213a1ac0e210023449768d1e322cbeda, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5084_BP46249_FMA66450_Trunk_of_right_facial_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 103f3564d488ee246add23a1c045fd00, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5019_BP49589_FMA49584_Right_angular_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 71ea494845be68b4f99563c81d0beef3, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5089_BP49546_FMA49696_Right_inferior_alveolar_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 17.016666
+      value: {fileID: 2100000, guid: f03ea904bfa6310469ca7954ac6fdb00, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5128_BP49191_FMA50013_Right_medial_palpebral_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: b3d040f2edd12cb468642728e1fb3495, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ5169_BP49404_FMA49758_Right_posterior_superior_alveolar_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: 38e35162d3a72f54b8603933228052fc, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ4989_BP49930_FMA66531_Trunk_of_right_external_carotid_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.05
+      value: {fileID: 2100000, guid: b4247915e3348664ba912fadf915c253, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3678M_BP49154_FMA50378_Anterolateral_central_branch_of_left_middle_cerebral_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.016666
+      value: {fileID: 2100000, guid: c532bb7a5e33ea546b0df4a2c219b519, type: 2}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - time: 19.233334
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3647_BP50789_FMA14332_Superior_mesenteric_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 16.016666
+      value: {fileID: 2100000, guid: fa970af6eea2b8b47bba5b4ba1553c7d, type: 2}
+    - time: 19.25
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ3659_BP51044_FMA10951_Inferior_vena_cava:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 22
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2067_BP49704_FMA69495_Left_arcuate_artery:grp1
+    classID: 23
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - time: 19.016666
+      value: {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    attribute: m_Materials.Array.data[0]
+    path: FJ2186_BP46589_FMA22954_Dorsal_metacarpal_vein:grp1
+    classID: 23
+    script: {fileID: 0}
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 468154680
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3902956847
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1624784590
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 761346190
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 808159297
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 482289947
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 424125101
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3892658987
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2491133686
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 459357184
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1328630980
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 457071289
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1931958601
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4207909384
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4052209677
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2788171257
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1311970751
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 177081994
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3816500492
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1210964810
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1241912604
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2458238111
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 603696403
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2430775540
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4157494559
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3530359854
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 472976177
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 709071508
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3231700099
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 470999117
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3190205575
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3452079029
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2922343638
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3953163327
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 403725124
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4077645395
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2538107991
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1178139767
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1982158194
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3174905090
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1736578259
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 385415698
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2682766146
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4107824538
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 774556824
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3734373608
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2074547466
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1431877357
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 691032887
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2020813548
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 182125221
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2771362007
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1960077490
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 622563744
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2589249454
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 341629787
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1287625147
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3775576477
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2727753652
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 546419242
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3811950551
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2412697744
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2178622426
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1841788425
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2442742538
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2708715181
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4174272676
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2004841653
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 357493940
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1615146789
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2409002029
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2703919888
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1921860770
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4087209841
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3913878668
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1202503092
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2177127601
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1160797335
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 229154083
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2412818246
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3011026964
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3061294695
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1239694042
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2619723267
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 3879892246
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1717090216
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1221016562
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2970929468
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 4225870323
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 2150809264
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 1224358638
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 23
+      customType: 21
+      isPPtrCurve: 1
+    - serializedVersion: 2
+      path: 0
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping:
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 06004ce3290727d4ba5f2dafe3e88b76, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 058b963f491d58447a87708f0d046458, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 247abd2df8661ce4d8dc8acdab12baa1, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: b9ee3635896e346419fa2e134ead1d48, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 53814486414a7b746befcc00908d3f90, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: e0de551960b80a646b313b1c03917397, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 360c8289bbbb60840995fe53ec480ab7, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c15abe08504714e4993c1cff7a2f280f, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 2ecad785bf449944fbec20e7cd751248, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 165dcfa37365e2d4e9fbcfb259bc51d4, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: b476f38812b291c4c81791483ff60462, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 5797ce03b6e65c949a3a07dfa986fdd7, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 653fb93c7d2d75b4aa9fa070377e7b5e, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: d377d47ecf12b014dbf9f4bdea16b0da, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: f793201241dd1be4880eff514f3bebaf, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 102f8c25d8065c64a87404948cc0bef3, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 61237d0f640520743aa6e0817d9a0c3d, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 0b197f3e9bc155042a9754221d427850, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 745c247566bcbc44fad15e1e8c0380ac, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 6c8ea717a2b002a4398916409778ddef, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 7b93df7d0b37ffa439b668216129f0b2, type: 2}
+    - {fileID: 2100000, guid: 7b93df7d0b37ffa439b668216129f0b2, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: dc89b261ef5eba740b5ad80d1f6cc2d9, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: ddd37583b91a1774da28aff4de609ae7, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 7a73a670975f91846bd5a149b56d493d, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 48e580b5f03b2e347953a9b4fb423900, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: db9247e3b681b804181feae86344fdcd, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c13d8d00fede3b64bb6d7fba1d6f74c9, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: a7c00f201757bbd45b05ad4f202897d9, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 8dc56a64a2b604d4c90eb4f83b1e4437, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: bebd5769f00da0b44a2774ecb616e996, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: ba62e05e958c2c2408bfbfd0abf63034, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c3c5fbd7617fab24297fb1715ff30ebc, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 676d6eda798ff694d818742e7255131c, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 04380d001b25b2a44a4f870f38071d9a, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 6f462aac1034be84999f78df30fdf0f6, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 41fdeb13648792548a8d307cb4917429, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: ba9052d6c681b6146b7c859d4e4910af, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 4e1cdc3472c1cbf45b873839093d9439, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: af71ee315bd6b1f4a8e65db832034b76, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 966ee9b48cb026549947697773019514, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 99df4e193ab559841910f8545be1d31f, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 8fcb7e56feaf1a54ebd59596a255e76a, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: aec3a8bba2bf02a4ab9ebcbdb37f2932, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: bcafb3e692bc7f24e9c1747776be4036, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: cf957d1a4e0cfef4981459ce71a0aa38, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: ee8f52e809f5d8a459dc0962951054a8, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 6aede284f79b78946ba99fd0db879012, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 5ebe09ced3f82ec439e19200b91ae2d6, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: a3ffd86fe6b47774cb635da18db865f1, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c2609d7501d732e46bfcd897509c2d6e, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: e25c5787565af9940ad5a03e177e7ce9, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: ac0eeae9486412f4a9aa4fc4e4caa352, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: a2528a077f570244d83ea6536e26e0d4, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 5175daecbc9d0b147831bb7f51891e83, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 81ff0d06a32035b44987bdfbefa84443, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: a17162fd2713dc4489e8474af50a2eea, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: abdc5d8d8687a22469ba4a22f57a89b3, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: a05592fcf09eb0f47b5289f8048b283b, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 8ff78ba5215876e459402f7e2bc99e55, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 5ee53c094e48d7b42aec544abd79994b, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 67025c0f710819b40942c03760bb713f, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 9bcf35f32c8e5954890d7ae00e787919, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 79d21ba2ed2f7664bbd67f5dc6375937, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c82be7bdbbfd9ef4090ec5b03cb7115a, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 819932e16b896954f8516c2da5111943, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: b32f67338fc37f44c935fd645c4b3cc7, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: a148e0ada7e434a4da050c6670149e3a, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: e6ea7ecacd680ff49b592b0d13b7469f, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 3a57d957bc1dc4a438a9da672a95e060, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: a7b3b1213621ee14caaf7c960beb51ee, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 9ace736fb52cc8544aec6c1c9f31a42f, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: b9ea0e7c52f08c64b8ef14fa3d5044e7, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: a110e543d43f82f4a83d23f299d760cc, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 6b50926bf2df24248a6c198553be7da6, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 3663a918798b5974ca2cedcb042208ec, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 94d2eb0ee08bd5c49a856bb503edb8d1, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: a80ce77623de1884bb5f29a2c5d9b086, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c7de9065e4597e541a229646390af3c4, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 9bf0df65b5a4c8741abf51b239f665f9, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 213a1ac0e210023449768d1e322cbeda, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 103f3564d488ee246add23a1c045fd00, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 71ea494845be68b4f99563c81d0beef3, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: f03ea904bfa6310469ca7954ac6fdb00, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: b3d040f2edd12cb468642728e1fb3495, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: 38e35162d3a72f54b8603933228052fc, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: b4247915e3348664ba912fadf915c253, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c532bb7a5e33ea546b0df4a2c219b519, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: fa970af6eea2b8b47bba5b4ba1553c7d, type: 2}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+    - {fileID: 7770318624900243041, guid: a6cc7682c2c982d40bf58ee43cf9c9fd, type: 3}
+    - {fileID: 2100000, guid: c7d529828c4b4f54a9153b03ca5c3747, type: 2}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 22.05
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 8.516666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 8.516666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 8.516666
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
