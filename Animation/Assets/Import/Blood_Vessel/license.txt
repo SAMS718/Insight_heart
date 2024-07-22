@@ -1,0 +1,11 @@
+Model Information:
+* title:	Blood Vessel
+* source:	https://sketchfab.com/3d-models/blood-vessel-c2ea79219bdf482f84d6528e223d04f8
+* author:	Umar2215 (https://sketchfab.com/Umar2215)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Blood Vessel" (https://sketchfab.com/3d-models/blood-vessel-c2ea79219bdf482f84d6528e223d04f8) by Umar2215 (https://sketchfab.com/Umar2215) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
