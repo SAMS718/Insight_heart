@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crochet Needle
+* source:	https://sketchfab.com/3d-models/crochet-needle-4a89ddfd0d604942ad0cdcf354523e19
+* author:	Riddlingjesse (https://sketchfab.com/Riddlingjesse)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crochet Needle" (https://sketchfab.com/3d-models/crochet-needle-4a89ddfd0d604942ad0cdcf354523e19) by Riddlingjesse (https://sketchfab.com/Riddlingjesse) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
