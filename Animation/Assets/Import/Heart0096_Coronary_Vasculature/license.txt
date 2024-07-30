@@ -1,0 +1,11 @@
+Model Information:
+* title:	Heart0096 Coronary Vasculature
+* source:	https://sketchfab.com/3d-models/heart0096-coronary-vasculature-dde1a35115394d7b847a0a61fbd2c4b2
+* author:	VisibleHeartLabs (https://sketchfab.com/VisibleHeartLabs)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Heart0096 Coronary Vasculature" (https://sketchfab.com/3d-models/heart0096-coronary-vasculature-dde1a35115394d7b847a0a61fbd2c4b2) by VisibleHeartLabs (https://sketchfab.com/VisibleHeartLabs) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

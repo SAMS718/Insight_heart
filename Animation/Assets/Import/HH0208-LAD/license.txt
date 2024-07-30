@@ -1,0 +1,11 @@
+Model Information:
+* title:	HH0208-LAD
+* source:	https://sketchfab.com/3d-models/hh0208-lad-33b01bab5a1d45af9cc06ca3e3013cd4
+* author:	VisibleHeartLabs (https://sketchfab.com/VisibleHeartLabs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HH0208-LAD" (https://sketchfab.com/3d-models/hh0208-lad-33b01bab5a1d45af9cc06ca3e3013cd4) by VisibleHeartLabs (https://sketchfab.com/VisibleHeartLabs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
