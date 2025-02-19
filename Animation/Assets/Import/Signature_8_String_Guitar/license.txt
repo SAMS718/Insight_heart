@@ -1,0 +1,11 @@
+Model Information:
+* title:	Signature 8 String Guitar
+* source:	https://sketchfab.com/3d-models/signature-8-string-guitar-4aee888dc998430ba504bd32c335bb0a
+* author:	MEWRA (https://sketchfab.com/mewrareal)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Signature 8 String Guitar" (https://sketchfab.com/3d-models/signature-8-string-guitar-4aee888dc998430ba504bd32c335bb0a) by MEWRA (https://sketchfab.com/mewrareal) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
