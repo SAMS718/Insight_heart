@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cassette Air Conditioner
+* source:	https://sketchfab.com/3d-models/cassette-air-conditioner-ac4a123953e24b16b8d497cceff7c6df
+* author:	Nikodoo (https://sketchfab.com/Nikodoo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cassette Air Conditioner" (https://sketchfab.com/3d-models/cassette-air-conditioner-ac4a123953e24b16b8d497cceff7c6df) by Nikodoo (https://sketchfab.com/Nikodoo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

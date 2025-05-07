@@ -1,0 +1,11 @@
+Model Information:
+* title:	air_conditioner
+* source:	https://sketchfab.com/3d-models/air-conditioner-4bb838f3ec3348a2bc7c9bdc137fbcdb
+* author:	Phuong Thao Phan (https://sketchfab.com/vsonephuongthao)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "air_conditioner" (https://sketchfab.com/3d-models/air-conditioner-4bb838f3ec3348a2bc7c9bdc137fbcdb) by Phuong Thao Phan (https://sketchfab.com/vsonephuongthao) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
