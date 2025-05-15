@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poppy Playtime The Lab (PART 1) Assets
+* source:	https://sketchfab.com/3d-models/poppy-playtime-the-lab-part-1-assets-b5778ad912264e64bb74b4954035afc1
+* author:	iZZK (https://sketchfab.com/el.hizsak)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poppy Playtime The Lab (PART 1) Assets" (https://sketchfab.com/3d-models/poppy-playtime-the-lab-part-1-assets-b5778ad912264e64bb74b4954035afc1) by iZZK (https://sketchfab.com/el.hizsak) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
