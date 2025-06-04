@@ -27,7 +27,7 @@ public class CameraSnapper : MonoBehaviour
             snapButton.onClick.AddListener(ToggleCameraPosition);
     }
 
-    void ToggleCameraPosition()
+    public void ToggleCameraPosition()
     {
         if (!isSnapped)
         {
